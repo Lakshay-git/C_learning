@@ -329,3 +329,5 @@
 // for(initialisation; condition; updation){
     // do something 
 //}
+
+//this is c 
